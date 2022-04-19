@@ -1,0 +1,21 @@
+*{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: blue ;
+color: white;
+}
+.tittle{
+    font-size: 50px;
+    text-align: center;
+}
+.nav{
+    text-transform: uppercase;
+    background-color:yellow;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+a{
+   color: black; 
+    background-color:yellow;  
+    text-decoration: none;
+}
