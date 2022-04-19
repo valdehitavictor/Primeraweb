@@ -19,3 +19,9 @@ a{
     background-color:yellow;  
     text-decoration: none;
 }
+footer{
+   background-color: black; 
+}
+footer p{
+    background-color: black;   
+}
