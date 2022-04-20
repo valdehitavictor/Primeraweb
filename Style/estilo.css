@@ -14,7 +14,7 @@ color: white;
     justify-content: space-around;
     padding: 5px;
 }
-a{
+.nav a{
    color: black; 
     background-color:yellow;  
     text-decoration: none;
